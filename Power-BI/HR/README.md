@@ -58,9 +58,6 @@ The main objective of this project is to:
 * Provide HR professionals with insights for **better workforce management**
 * Identify **salary patterns and employee demographics**
 
-## 📷 Dashboard Preview
-
-![HR Dashboard](dashboard.png)
 
 ## 📌 Future Improvements
 
