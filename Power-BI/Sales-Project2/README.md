@@ -128,6 +128,4 @@ Possible enhancements include:
 - Real-time data integration
 
 ---
-
-
-⭐ If you like this project, consider **starring the repository**!
+!
